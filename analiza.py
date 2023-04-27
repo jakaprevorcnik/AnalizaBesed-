@@ -7,6 +7,7 @@ def nalozi_besede():
 
 
 def relativne_frekvence(besede):
+    #start of the function
     # Counter je nekakšen slovar:
     # https://realpython.com/python-counter/
     stevec_pojavitev = Counter()
